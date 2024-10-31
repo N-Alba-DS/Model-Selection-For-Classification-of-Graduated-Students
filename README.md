@@ -1,4 +1,4 @@
-# Selección de Modelos para la clasificación de estudiantes a graduarse.
+# Selección de modelos para la clasificación de estudiantes a graduarse.
 
 Este proyecto surge a partir de un trabajo académico en el cual se nos encomendó utilizar diversos modelos de machine learning para predecir un problema de clasificacción, determinando si los estudiantes universitarios completarían o no su carrera. El objetivo principal fue medir la perfomance al utilizar multiples modelos para lidiar con el objetivo.
 
