@@ -1,6 +1,6 @@
-# Análisis y Predicción de Graduados Estudiantiles.
+# Selección de Modelos para la Clasificación de Estudiantes a Graduarse.
 
-Este proyecto surge a partir de un trabajo académico en el cual se nos encomendó utilizar diversos modelos de machine learning para predecir si los estudiantes universitarios completarían o no su carrera. El objetivo principal fue medir la perfomance al utilizar multiples modelos para lidiar con el objetivo.
+Este proyecto surge a partir de un trabajo académico en el cual se nos encomendó utilizar diversos modelos de machine learning para predecir un problema de clasificacción, determinando si los estudiantes universitarios completarían o no su carrera. El objetivo principal fue medir la perfomance al utilizar multiples modelos para lidiar con el objetivo.
 
 ## Descripción del Proyecto
 
