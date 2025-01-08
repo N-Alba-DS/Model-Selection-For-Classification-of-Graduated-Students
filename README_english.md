@@ -12,7 +12,7 @@ Different metrics were used to evaluate the models’ performance on both traini
 
 - For predicting the **binary target** (whether a student will complete the degree or not), the best performance was achieved with **Logistic Regression**.
 - For predicting **multiclass variables** (types of dropout), the most effective model was the **Decision Tree**.
-- Additionally, **ensemble** techniques were implemented, using models like **AdaBoost** and **Bagging KNeighborsClassifier**, which significantly improved performance in some cases.
+- Additionally, **ensemble** techniques were implemented, using models like **AdaBoost** and **Bagging KNeighborsClassifier**, which significantly improved performance in some cases .
 
 ## Data Set Analysis
 
